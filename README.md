@@ -13,8 +13,8 @@ npm install sanity-plugin-simple-slider
 Add it as a plugin in `sanity.config.ts` (or .js):
 
 ```ts
-import {defineConfig} from 'sanity'
-import {myPlugin} from 'sanity-plugin-simple-slider'
+import { defineConfig } from "sanity"
+import { myPlugin } from "sanity-plugin-simple-slider"
 
 export default defineConfig({
   //...
